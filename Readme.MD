@@ -7,4 +7,4 @@ A idéia desta aplicação é encontrar desenvolvedores por meio da API do Githu
 - Login
 - Like e deslike
 - Match
-- Real Time
+- Real-Time
